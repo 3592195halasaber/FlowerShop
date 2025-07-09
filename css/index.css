@@ -1,0 +1,33 @@
+body {
+  padding: 0px;
+  margin: 0px;
+}
+.nav {
+  background-color: #597445;
+  padding: 5px;
+  text-align: center;
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-size: 20px;
+  font-style: normal;
+}
+.paragraph {
+  font-size: 20px;
+  text-align: center;
+  margin: 15px;
+}
+table {
+  background-color: #80a167c5;
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings: "width" 200;
+  padding: 10px;
+}
+.font {
+  padding: 30px;
+}
+img:hover {
+  transform: scaleX(1.2);
+  transition-duration: 2s;
+}
