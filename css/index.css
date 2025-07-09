@@ -15,7 +15,6 @@ body {
   font-size: 20px;
   text-align: center;
   margin: 16px;
-
 }
 table {
   background-color: #80a167c5;
@@ -24,12 +23,12 @@ table {
   font-style: normal;
   font-variation-settings: "width" 200;
   padding: 14px;
-    height: 74vh;
+  height: 74vh;
 }
 .font {
   padding: 30px;
 }
 img:hover {
-  transform: scaleX(1.1 ) scaleY(1.1);
+  transform: scaleX(1.1) scaleY(1.1);
   transition-duration: 2s;
 }
